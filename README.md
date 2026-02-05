@@ -220,3 +220,7 @@ Below is a conceptual **Entity-Relationship (ER) diagram** for the **modules com
 * Shows **data storage** and **status updates** clearly
 
 ---
+
+## 👤 Author
+
+**Himanshu Bhandari**
